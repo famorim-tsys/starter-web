@@ -13,3 +13,7 @@ Sample website with plenty of files for demos
 ## Unrelated Changes
 
 This is going to hurt
+
+###Copyright 
+
+2023 Git.Training
