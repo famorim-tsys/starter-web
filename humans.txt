@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Fabio Amorim	famorim@tsys	@tudoseparado
 
 # THANKS
 
